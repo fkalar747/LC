@@ -9,3 +9,6 @@ Thread
 	Yield() : 양보한다. 다시 큐 끝으로 들어감
 	
 	
+	sychronized 
+		- 동기화 블락은 짧을 수록 좋다. 
+		
